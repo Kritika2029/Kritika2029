@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Kritika2029
-- 👀 I’m interested in programming ( c++/ javascript )
-- 💞️ I’m looking to collaborate on web project
-- 📫 How to reach me via gmail
+
